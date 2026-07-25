@@ -1,0 +1,9 @@
+{
+  "name": "adhd-friendly",
+  "description": "Default communication style for ADHD-friendly, structured, scannable coding-agent responses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Belgacem Elbar",
+    "url": "https://github.com/BelgacemElbar"
+  }
+}

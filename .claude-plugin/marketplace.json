@@ -1,0 +1,15 @@
+{
+  "name": "adhd-friendly",
+  "owner": {
+    "name": "Belgacem Elbar",
+    "url": "https://github.com/BelgacemElbar"
+  },
+  "description": "A communication-style skill for AI coding agents — structured, scannable, to-the-point responses. Built for ADHD.",
+  "plugins": [
+    {
+      "name": "adhd-friendly",
+      "source": ".",
+      "description": "Default communication style: lead with the answer, structure over prose, plain language, checkable steps, concrete next actions. Triggers on ADHD/neurodivergence mentions or requests for shorter/clearer responses."
+    }
+  ]
+}

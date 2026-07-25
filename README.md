@@ -46,8 +46,14 @@ repo is just docs around it.
 
 ### Claude Code
 
-Copy the skill folder into your personal skills directory (works across
-all your projects):
+**Option 1 — as a marketplace plugin (recommended):**
+
+```
+/plugin marketplace add BelgacemElbar/adhd-friendly
+/plugin install adhd-friendly@adhd-friendly
+```
+
+**Option 2 — manual copy** (no plugin system, just the file):
 
 ```bash
 mkdir -p ~/.claude/skills
